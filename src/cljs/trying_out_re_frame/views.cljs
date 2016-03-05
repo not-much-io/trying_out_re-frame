@@ -23,5 +23,5 @@
   [:div.section
    [:div.container
     [count-display]
-    [increment-count-button]
-    [decrement-count-button]]])
+    [decrement-count-button]
+    [increment-count-button]]])
